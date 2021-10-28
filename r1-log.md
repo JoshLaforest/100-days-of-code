@@ -1,10 +1,12 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Joshua Laforest
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [October 28th, Thursday, 2021].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Worked on Survey Form as part of FreeCodeCamp Curriculum. I feel that I am starting to get the hang of HTML and CSS. Coding is so much fun!
+[Survey Form](https://codepen.io/joshlaforest/pen/WNEOBKW)
+Plan is to continue working on the CSS tomorrow.
 
 ### R1D2

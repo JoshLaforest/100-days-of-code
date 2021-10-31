@@ -13,3 +13,8 @@ Plan is to continue working on the CSS tomorrow.
 Worked on Product Landing Page as part of FreeCodeCamp curriculum. Overall, I'm able to combine basic HTML and CSS fairly well. 
 [Product Landing Page] (https://codepen.io/joshlaforest/pen/vYJJadQ)
 Super pumped for Day Three. :)
+
+### R1D3
+Worked on another project for FreeCodeCamp curriculum. I'm honestly having so much fun. I didn't manage to post yesterday, caught horrid cold over weekend. 
+Yay, illness!
+[Technical Documentation] (https://codepen.io/joshlaforest/pen/VwzMvwr)
